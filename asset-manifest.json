@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bounce-squared/static/css/main.cd0c0951.css",
+    "main.js": "/bounce-squared/static/js/main.ea4008c2.js",
+    "static/js/787.fd317f67.chunk.js": "/bounce-squared/static/js/787.fd317f67.chunk.js",
+    "index.html": "/bounce-squared/index.html",
+    "main.cd0c0951.css.map": "/bounce-squared/static/css/main.cd0c0951.css.map",
+    "main.ea4008c2.js.map": "/bounce-squared/static/js/main.ea4008c2.js.map",
+    "787.fd317f67.chunk.js.map": "/bounce-squared/static/js/787.fd317f67.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd0c0951.css",
+    "static/js/main.ea4008c2.js"
+  ]
+}
